@@ -1,0 +1,175 @@
+*{
+	margin:0;
+	padding:0;
+	outline:0;
+}
+body{
+	background:#fff;
+}
+
+.banner{
+	background-image:url("../Images/resort.jpg");
+	display:cover;
+	width:100%;
+	height:700px;
+	
+}
+ h1{
+		padding-top:80px;
+		padding-left:10px;
+		padding-bottom:0;
+		margin-bottom:0;
+		font-size:80px;
+		font-family:Lucida Handwriting;
+ }
+ 
+ h2{
+	 font-family:Lucida Handwriting;
+ }
+ .colr{
+ 	color: black !important;
+ }
+ 
+ h6{
+	 padding-left:185px;
+	 font-family:Lucida Handwriting;
+	 font-size:15px;
+	 color:#FFDB00;
+ }
+ 
+.mynavbar{
+	background: rgb(0,0,0,.5) !important;
+	padding:10px;
+	
+}
+
+.margin{
+	margin-bottom:3%;
+
+}
+.carousel-inner{
+	border-radius:10%;
+}
+.margin h1{
+	color:black;
+}
+
+.two{
+	margin-top:-6%;
+}
+
+.three{
+	color:black;
+	text-align:center;
+}
+#branches{
+	color:black;
+}
+
+.abt{
+	text-align:justify;
+	font-family:Georgia;
+	
+}
+
+.aimg img{
+	border-radius:30%!important;
+	width:350px;
+	height:250px;
+	
+}
+.intro{
+	background-image:url('../Images/bg.jpg')!important;
+	background-attachment: fixed;
+	height:30em;
+}
+#rooms{
+	color:black;
+}
+
+#portfolio{
+	color:black;
+	padding-top:1%;
+}
+.intro-body h1{
+	font-family:Lucida Handwriting;
+	padding-top:0px;
+	margin:0;
+	color:#FED202;
+}
+.intro-body p{
+	font-family:Andalus;
+	font-size:bold;
+	padding-top:0px;
+	
+}
+
+.image img{
+	border-radius:20%;
+	width:300px;
+	height:200px;
+	
+}
+
+.head h4{
+	
+	text-align:center;
+}
+
+.head p{
+	text-align:justify;
+	
+}
+
+
+.first img{
+	border-radius:20%;
+	width:300px;
+	height:200px;
+	
+}
+
+.first h4{
+	text-align:center;
+	
+}
+
+.first p{
+	
+	text-align:justify;
+}
+
+.margin{
+	margin-bottom:60px;
+	
+}
+#copyright{
+	color:black;
+}
+
+body{
+	background-image:url('../Images/26.jpg');
+}
+
+#contact h3{
+	padding-top: 10px;
+}
+
+
+footer {
+      position: left;
+      clear: both;
+      color: #ffffff;
+     
+      text-align:center;
+      height: 50px;	
+      line-height: 50px;
+      font-size: 200%;
+      margin-left:-100%;
+      margin-right:-100%;
+    }
+
+	
+
+
+
